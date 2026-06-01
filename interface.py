@@ -6,7 +6,7 @@ client = OpenAI(
 )
 
 messages = [
-    {"role": "system", "content": "あなたは天才ですね"},
+    {"role": "system", "content": "あなたは天才なんだよねーー"},
 ]
 
 print("bot: 起動しました。exit で終了します。")
